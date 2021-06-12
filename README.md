@@ -15,8 +15,8 @@ I'm just a 14 years old student from Malaysia. I'm mostly intersted in language 
 
 ### 🏁 My activities
 <a href="https://github.com/ChizoDev/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ChizoDev&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ChizoDev&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/ChizoDev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChizoDev&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChizoDev&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
