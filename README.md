@@ -15,9 +15,9 @@ I'm just a 14 years old student from Malaysia. I'm mostly intersted in language 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 🏁 My activities
-<a href="https://github.com/ChizoDev/github-readme-stats">
+<a href="https://github.com/ChizoDev/">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=ChizoDev&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-<a href="https://github.com/ChizoDev/github-readme-stats">
+<a href="https://github.com/ChizoDev/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChizoDev&theme=dark&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
